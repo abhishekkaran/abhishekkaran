@@ -1,6 +1,6 @@
-# Hey, I'm Abhishek Karan 👋
+#                                                Hey, I'm Abhishek Karan 👋
 
-### Full-Stack Developer | CS Student | Delhi, India
+###                                  Full-Stack Developer | B.TECH CSE Final Year | Delhi, India
 
 *Building real-world apps with JavaScript, React & Node.js*
 
